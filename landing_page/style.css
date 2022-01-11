@@ -6,8 +6,8 @@ body{
     box-sizing: border-box;
 }
 img{
-    width: 200px;
-    height: auto;
+    max-width: 300px;
+    min-height: 300px;
 }
 .main-img{
     width: 300px;
