@@ -60,7 +60,7 @@ a {
     flex-wrap: wrap;
 }
 .hero2 img{
-    width: 200;
+    width: 300px;
     height: auto;
     object-fit: cover;
     border-radius: 5px;
